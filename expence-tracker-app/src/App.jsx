@@ -87,7 +87,7 @@ function App() {
           <h1 className='text-center mb-5'>Expense Tracker</h1>
           <div className='row'>
             <div className='col-md-4 text-center'>
-              <h3>Amount In</h3>
+              <h3>Amount In IUI</h3>
               <h5 className='text-success'>${income}</h5>
               <button className='btn btn-success' onClick={openIncomeModals}>Add Income</button>
 
